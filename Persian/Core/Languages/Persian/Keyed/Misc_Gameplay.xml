@@ -3,55 +3,55 @@
 
   <!-- Various -->
   <!-- EN: hit points -->
-  <HitPointsBasic>hit points</HitPointsBasic>
+  <HitPointsBasic>نقاط ضربه</HitPointsBasic>
   <!-- EN: Work left -->
-  <WorkLeft>Work left</WorkLeft>
+  <WorkLeft>کار مانده است</WorkLeft>
   <!-- EN: Contents -->
-  <Contents>Contents</Contents>
+  <Contents>فهرست</Contents>
   <!-- EN: Contained resources -->
-  <ContainedResources>Contained resources</ContainedResources>
+  <ContainedResources>منابع موجود</ContainedResources>
   <!-- EN: For prisoner use -->
-  <ForPrisonerUse>For prisoner use</ForPrisonerUse>
+  <ForPrisonerUse>برای استفاده زندانیان</ForPrisonerUse>
   <!-- EN: In prison cell: For prisoner use -->
-  <InPrisonCell>In prison cell: For prisoner use</InPrisonCell>
+  <InPrisonCell>در سلول زندان: برای استفاده زندانیان</InPrisonCell>
   <!-- EN: For colonist use -->
-  <ForColonistUse>For colonist use</ForColonistUse>
+  <ForColonistUse>برای استفاده استعمارگران</ForColonistUse>
   <!-- EN: Medical -->
   <MedicalBed>پزشکی</MedicalBed>
   <!-- EN: Owner -->
-  <Owner>Owner</Owner>
+  <Owner>مالک</Owner>
   <!-- EN: Owners -->
-  <Owners>Owners</Owners>
+  <Owners>صاحبان</Owners>
   <!-- EN: Assigned colonist -->
-  <AssignedColonist>Assigned colonist</AssignedColonist>
+  <AssignedColonist>مستعمره نشین منصوب شد</AssignedColonist>
   <!-- EN: Uncomfortable room temperature -->
-  <BedUncomfortableTemperature>Uncomfortable room temperature</BedUncomfortableTemperature>
+  <BedUncomfortableTemperature>دمای اتاق ناخوشایند</BedUncomfortableTemperature>
   <!-- EN: Unsafe room temperature -->
-  <BedUnsafeTemperature>Unsafe room temperature</BedUnsafeTemperature>
+  <BedUnsafeTemperature>دمای اتاق ناایمن</BedUnsafeTemperature>
   <!-- EN: Died on the {0} -->
-  <DiedOn>Died on the {0}</DiedOn>
+  <DiedOn>در {0} درگذشت</DiedOn>
   <!-- EN: Nobody -->
-  <Nobody>Nobody</Nobody>
+  <Nobody>هيچ كس</Nobody>
   <!-- EN: Unowned -->
-  <Unowned>Unowned</Unowned>
+  <Unowned>ناشناس</Unowned>
   <!-- EN: Dead for {0} -->
-  <DeadTime>Dead for {0}</DeadTime>
+  <DeadTime>مرده برای {0}</DeadTime>
   <!-- EN: walk speed {0} -->
-  <WalkSpeed>walk speed {0}</WalkSpeed>
+  <WalkSpeed>سرعت راه رفتن {0}</WalkSpeed>
   <!-- EN: fert. -->
-  <FertShort>fert.</FertShort>
+  <FertShort>فرت</FertShort>
   <!-- EN: dying -->
   <DyingLower>در حال مرگ</DyingLower>
   <!-- EN: Filth on feet: -->
-  <FilthOnFeet>Filth on feet:</FilthOnFeet>
+  <FilthOnFeet>کثیفی روی پا:</FilthOnFeet>
   <!-- EN: not enough stored -->
-  <NotEnoughStoredLower>not enough stored</NotEnoughStoredLower>
+  <NotEnoughStoredLower>به اندازه کافی ذخیره نشده است</NotEnoughStoredLower>
   <!-- EN: nothing -->
-  <NothingLower>nothing</NothingLower>
+  <NothingLower>هیچ چی</NothingLower>
   <!-- EN: Nothing -->
-  <Nothing>Nothing</Nothing>
+  <Nothing>هیچ چی</Nothing>
   <!-- EN: Adapted -->
-  <Adapted>Adapted</Adapted>
+  <Adapted>سازگار</Adapted>
   <!-- EN: fresh -->
   <FreshMissingBodyPart>fresh</FreshMissingBodyPart>
   <!-- EN: developed immunity -->

@@ -39,25 +39,25 @@
   
   <!-- Caravan inspect -->
   <!-- EN: Colonists -->
-  <CaravanColonists>Colonists</CaravanColonists>
+  <CaravanColonists>مهاجران</CaravanColonists>
   <!-- EN: Prisoners and animals -->
-  <CaravanPrisonersAndAnimals>Prisoners and animals</CaravanPrisonersAndAnimals>
+  <CaravanPrisonersAndAnimals>زندانیان و حیوانات</CaravanPrisonersAndAnimals>
   <!-- EN: Inventory -->
   <CaravanItems>فهرست موجودی </CaravanItems>
   <!-- EN: Click to open a tab with more details. -->
-  <OpenSpecificTabButtonTip>Click to open a tab with more details.</OpenSpecificTabButtonTip>
+  <OpenSpecificTabButtonTip>برای باز کردن یک برگه با جزئیات بیشتر کلیک کنید.</OpenSpecificTabButtonTip>
   <!-- EN: Prisoners -->
-  <CaravanPrisoners>Prisoners</CaravanPrisoners>
+  <CaravanPrisoners>زندانیان</CaravanPrisoners>
   <!-- EN: Equippable items -->
-  <CaravanWeaponsAndApparel>Equippable items</CaravanWeaponsAndApparel>
+  <CaravanWeaponsAndApparel>اقلام قابل تجهیز</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
-  <NoneCapable>None capable</NoneCapable>
+  <NoneCapable>هیچکدام قادر نیستند</NoneCapable>
   <!-- EN: Caravan not moving -->
-  <GainingJoyBecauseCaravanNotMoving>Caravan not moving</GainingJoyBecauseCaravanNotMoving>
+  <GainingJoyBecauseCaravanNotMoving>کاروان حرکت نمی کند</GainingJoyBecauseCaravanNotMoving>
   
   <!-- Caravan gear -->
   <!-- EN: Drag to rearrange. -->
-  <DragToRearrange>Drag to rearrange.</DragToRearrange>
+  <DragToRearrange>برای تنظیم مجدد بکشید.</DragToRearrange>
 
   <!-- Caravan items -->
   <!-- EN: Assign drug policies -->

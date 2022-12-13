@@ -15,13 +15,13 @@
   <DisabledLower>غیرفعال شد</DisabledLower>
 
   <!-- EN: Version {0} -->
-  <VersionIndicator>Version {0}</VersionIndicator>
+  <VersionIndicator>نسخه {0}</VersionIndicator>
   <!-- EN: Game version -->
   <GameVersionIndicator>نسخه بازی</GameVersionIndicator>
   <!-- EN: development build -->
   <DevelopmentBuildLower>ساخت توسعه</DevelopmentBuildLower>
   <!-- EN: Compiled {0} -->
-  <CompiledOn>Compiled {0}</CompiledOn>
+  <CompiledOn>کامپایل شده {0}</CompiledOn>
   <!-- EN: Logged into Steam as {0} -->
   <LoggedIntoSteamAs>Logged into Steam as {0}</LoggedIntoSteamAs>
   
@@ -173,7 +173,7 @@
 
   <!-- History events -->
   <!-- EN: Colonist died -->
-  <ColonistDied>Colonist died</ColonistDied>
+  <ColonistDied>مهاجر فوت کرد</ColonistDied>
   
   <!-- Rotation -->
   <!-- EN: North -->
