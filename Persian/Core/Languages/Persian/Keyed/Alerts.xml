@@ -11,22 +11,22 @@
   <!-- EN: Extreme break risk -->
   <BreakRiskExtreme>خطر شکست شدید</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
-  <BreakRiskMinorDesc>این کلونی ها در خلق و خوی ضعیفی هستند و ممکن است هر لحظه دچار مشکل ذهنی جزئی شوند:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMinorDesc>این مهاجران در خلق و خوی ضعیفی هستند و ممکن است هر لحظه دچار مشکل ذهنی جزئی شوند:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
-  <BreakRiskMajorDesc>این کلونی ها در خلق و خوی بسیار ضعیفی هستند و ممکن است هر لحظه دچار مشکل ذهنی بزرگی شوند:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskMajorDesc>این مهاجران در خلق و خوی بسیار ضعیفی هستند و ممکن است هر لحظه دچار مشکل ذهنی بزرگی شوند:\n\n{0}</BreakRiskMajorDesc>
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
-  <BreakRiskExtremeDesc>این کلونی ها به شدت تحت فشار هستند و ممکن است هر لحظه دچار مشکل ذهنی شدید (و احتمالاً خشونت آمیز) شوند.:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskExtremeDesc>این مهاجران به شدت تحت فشار هستند و ممکن است هر لحظه دچار مشکل ذهنی شدید (و احتمالاً خشونت آمیز) شوند.:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
-  <BreakRiskDescEnding>برگه «نیازهای ساکنان» را بررسی کنید تا ببینید چه چیزی آنها را آزار می‌دهد.\n\nبرای ایجاد احساس بهتر در کلونی ها، می‌توانید کارهایی مانند درست کردن غذاهای شیک برای آنها، ساعات تفریح بیشتر در روز و وسایل تفریحی زیباتر، قرار دادن آنها در محیط‌های زیبا، انجام دهید. آنها می نوشند و سیگار می کشند و خیلی چیزهای دیگر.</BreakRiskDescEnding>
+  <BreakRiskDescEnding>برگه «نیازهای ساکنان» را بررسی کنید تا ببینید چه چیزی آنها را آزار می‌دهد.\n\nبرای ایجاد احساس بهتر در مهاجران، می‌توانید کارهایی مانند درست کردن غذاهای شیک برای آنها، ساعات تفریح بیشتر در روز و وسایل تفریحی زیباتر، قرار دادن آنها در محیط‌های زیبا، انجام دهید. آنها می نوشند و سیگار می کشند و خیلی چیزهای دیگر.</BreakRiskDescEnding>
 
   <!-- EN: Colonist needs rescue -->
-  <ColonistNeedsRescue>کلونی به نجات نیاز دارد</ColonistNeedsRescue>
+  <ColonistNeedsRescue>مهاجر به نجات نیاز دارد</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
-  <ColonistsNeedRescue>کلونی ها به نجات نیاز دارند</ColonistsNeedRescue>
+  <ColonistsNeedRescue>مهاجران به نجات نیاز دارند</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
-  <ColonistsNeedRescueDesc>این کلونی ها روی زمین ناتوان هستند:\n\n{0}\کلونی دیگری را بفرستید تا آنها را نجات دهد و آنها را به رختخواب برگرداند.\n\n(برای نجات، کلونی دیگری را انتخاب کنید، سپس روی قربانی کلیک راست کرده و نجات دادن را انتخاب کنید.)</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>این مهاجران روی زمین ناتوان هستند:\n\n{0}\مهاجر دیگری را بفرستید تا آنها را نجات دهد و آنها را به رختخواب برگرداند.\n\n(برای نجات، مهاجر دیگری را انتخاب کنید، سپس روی قربانی کلیک راست کرده و نجات دادن را انتخاب کنید.)</ColonistsNeedRescueDesc>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
-  <ColonistsNeedRescueDescController>این کلونیان روی زمین ناتوان هستند:\n\n{0}\nکلونی دیگری را بفرستید تا آنها را نجات دهد و آنها را به رختخواب برگرداند.\n\n(برای نجات، کلونی دیگری را انتخاب کنید، سپس دکمه ماشه سمت چپ قربانی را فشار داده و نجات دادن را انتخاب کنید.)</ColonistsNeedRescueDescController>
+  <ColonistsNeedRescueDescController>این مهاجرها روی زمین ناتوان هستند:\n\n{0}\nمهاجر دیگری را بفرستید تا آنها را نجات دهد و آنها را به رختخواب برگرداند.\n\n(برای نجات، مهاجر دیگری را انتخاب کنید، سپس دکمه ماشه سمت چپ قربانی را فشار داده و نجات دادن را انتخاب کنید.)</ColonistsNeedRescueDescController>
 
   <!-- EN: Need defenses -->
   <NeedDefenses>نیاز به دفاع</NeedDefenses>
@@ -36,22 +36,22 @@
   <!-- EN: Need doctor -->
   <NeedDoctor>نیاز به دکتر</NeedDoctor>
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
-  <NeedDoctorDesc>این کلونی ها به مراقبت‌های پزشکی نیاز دارند، اما شما هیچ کلونی‌ای سالمی ندارید که به‌عنوان پزشک تعیین شده باشد.\n\n{0}\nیک کلونی سالم را به نوع کار پزشک اختصاص دهید. اگر زخم ها درمان نشوند، ممکن است هرگز به درستی بهبود نیافته و دائمی شوند.</NeedDoctorDesc>
+  <NeedDoctorDesc>این مهاجران به مراقبت‌های پزشکی نیاز دارند، اما شما هیچ مهاجر‌ای سالمی ندارید که به‌عنوان پزشک تعیین شده باشد.\n\n{0}\nیک مهاجر سالم را به نوع کار پزشک اختصاص دهید. اگر زخم ها درمان نشوند، ممکن است هرگز به درستی بهبود نیافته و دائمی شوند.</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
   <NeedMiner>نیاز به معدنچی</NeedMiner>
   <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
-  <NeedMinerDesc>این کلونی به مراقبت‌های پزشکی نیاز دارند، اما شما هیچ کلونی سالمی ندارید که به‌عنوان پزشک تعیین شده باشد.\n\n{0}\nیک کلونی سالم را به نوع کار پزشک اختصاص دهید. اگر زخم ها درمان نشوند، ممکن است هرگز به درستی بهبود نیافته و دائمی شوند.</NeedMinerDesc>
+  <NeedMinerDesc>این مهاجر به مراقبت‌های پزشکی نیاز دارند، اما شما هیچ مهاجر سالمی ندارید که به‌عنوان پزشک تعیین شده باشد.\n\n{0}\nیک مهاجر سالم را به نوع کار پزشک اختصاص دهید. اگر زخم ها درمان نشوند، ممکن است هرگز به درستی بهبود نیافته و دائمی شوند.</NeedMinerDesc>
 
   <!-- EN: Need warden -->
   <NeedWarden>نیاز به نگهبان</NeedWarden>
   <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
-  <NeedWardenDesc>شما یک زندانی دارید، اما هیچ کلونی نوع کار Warden را ندارد.\n\nنوع کار Warden را به یک کلونی اختصاص دهید.</NeedWardenDesc>
+  <NeedWardenDesc>شما یک زندانی دارید، اما هیچ مهاجر نوع کار Warden را ندارد.\n\nنوع کار Warden را به یک مهاجر اختصاص دهید.</NeedWardenDesc>
 
   <!-- EN: Low food -->
   <LowFood>غذای کم</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>غذای شما به طور خطرناکی کم است.\n\n حجم کامل مواد غذایی در انبار: {0}\n کلونی و زندانیان غذا دریافت می‌کنند: {1}\n غذا به ارزش یک روز در انبار: {2}\n\nرشد، مقداری غذا بخرید، پیدا کنید یا بکشید.</LowFoodDesc>
+  <LowFoodDesc>غذای شما به طور خطرناکی کم است.\n\n حجم کامل مواد غذایی در انبار: {0}\n مهاجر و زندانیان غذا دریافت می‌کنند: {1}\n غذا به ارزش یک روز در انبار: {2}\n\nرشد، مقداری غذا بخرید، پیدا کنید یا بکشید.</LowFoodDesc>
 
   <!-- EN: Low medicine -->
   <LowMedicine>داروی کم</LowMedicine>
@@ -61,12 +61,12 @@
   <NoMedicineDesc>هیچ دارویی در انبار ندارید.\n\nداروی بیشتری از تاجران بخرید.</NoMedicineDesc>
   
   <!-- EN: Need colonist beds -->
-  <NeedColonistBeds>نیاز به تخت کلونیان</NeedColonistBeds>
+  <NeedColonistBeds>نیاز به تخت مهاجران</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedColonistBedsDesc>تعداد کلونی شما بیشتر از تخت های کلونی است. کسی جایی برای خوابیدن ندارد.\n\nیا تخت‌های بیشتری درست کنید، یا تخت زندانی را به تخت کلونی تغییر دهید.\n\nاگر هیچ منبعی ندارید، مکان‌های خواب رایگان هستند و می‌توانند فوراً قرار بگیرند.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>تعداد مهاجر شما بیشتر از تخت های مهاجر است. کسی جایی برای خوابیدن ندارد.\n\nیا تخت‌های بیشتری درست کنید، یا تخت زندانی را به تخت مهاجر تغییر دهید.\n\nاگر هیچ منبعی ندارید، مکان‌های خواب رایگان هستند و می‌توانند فوراً قرار بگیرند.</NeedColonistBedsDesc>
   
   <!-- EN: Colonist left unburied -->
-  <AlertColonistLeftUnburied>کلونی بدون دفن رها شد</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburied>مهاجر بدون دفن رها شد</AlertColonistLeftUnburied>
   <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
   <AlertColonistLeftUnburiedDesc>A colonist is left unburied.\n\nThis may negatively affect your colonists' mood.</AlertColonistLeftUnburiedDesc>
 
@@ -93,7 +93,7 @@
   <!-- EN: Animal starvation -->
   <StarvationAnimals>گرسنگی حیوانات</StarvationAnimals>
   <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
-  <StarvationAnimalsDesc>These colony animals are starving:\n\n{0}\nGet them some food.</StarvationAnimalsDesc>
+  <StarvationAnimalsDesc>این حیوانات مهاجر گرسنه هستند:\n\n{0}\nبرای آنها غذا بیاورید.</StarvationAnimalsDesc>
 
   <!-- EN: Exhaustion -->
   <Exhaustion>فرسودگی</Exhaustion>
@@ -153,7 +153,7 @@
   <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project.</NeedResearchProjectDesc>
 
   <!-- EN: {0} colonists idle -->
-  <ColonistsIdle>{0} کلونیان بیکار</ColonistsIdle>
+  <ColonistsIdle>{0} مهاجران بیکار</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
   <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
   
@@ -327,7 +327,7 @@
   <!-- EN: {0} trees dying -->
   <AlertMinifiedTreeAboutToDie>{0} درخت در حال مرگ</AlertMinifiedTreeAboutToDie>
   <!-- EN: {0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees. -->
-  <AlertMinifiedTreeAboutToDieDesc>{0} درختان استخراج شده کمتر از یک روز می میرند. این باعث می شود برخی از کلونی به دلیل اعتقاداتشان ناراضی باشند.\n\nشما می توانید با کاشت مجدد این درختان از این امر جلوگیری کنید.</AlertMinifiedTreeAboutToDieDesc>
+  <AlertMinifiedTreeAboutToDieDesc>{0} درختان استخراج شده کمتر از یک روز می میرند. این باعث می شود برخی از مهاجر به دلیل اعتقاداتشان ناراضی باشند.\n\nشما می توانید با کاشت مجدد این درختان از این امر جلوگیری کنید.</AlertMinifiedTreeAboutToDieDesc>
 
   <!-- EN: Need research bench -->
   <NeedResearchBench>نیازمند نیمکت تحقیق</NeedResearchBench>

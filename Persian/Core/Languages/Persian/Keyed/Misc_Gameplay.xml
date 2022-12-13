@@ -39,7 +39,7 @@
   <!-- EN: walk speed {0} -->
   <WalkSpeed>سرعت راه رفتن {0}</WalkSpeed>
   <!-- EN: fert. -->
-  <FertShort>فرت</FertShort>
+  <FertShort>حاصلخیزی </FertShort>
   <!-- EN: dying -->
   <DyingLower>در حال مرگ</DyingLower>
   <!-- EN: Filth on feet: -->
@@ -1221,9 +1221,9 @@
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
-  <WindTurbine_WindPathIsBlockedBy>Blocked by</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedBy>مسدود شده توسط</WindTurbine_WindPathIsBlockedBy>
   <!-- EN: Blocked by roof -->
-  <WindTurbine_WindPathIsBlockedByRoof>Blocked by roof</WindTurbine_WindPathIsBlockedByRoof>
+  <WindTurbine_WindPathIsBlockedByRoof>توسط سقف مسدود شده است</WindTurbine_WindPathIsBlockedByRoof>
 
   <!-- Watermill generator -->
   <!-- EN: Flow reduced: Turbulence from other watermill -->
@@ -1279,7 +1279,7 @@
 
   <!-- Art -->
   <!-- EN: Title -->
-  <Title>Title</Title>
+  <Title>عنوان</Title>
   <!-- EN: Untitled -->
   <Untitled>Untitled</Untitled>
 
