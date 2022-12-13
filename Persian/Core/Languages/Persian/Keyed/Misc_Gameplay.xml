@@ -31,7 +31,7 @@
   <!-- EN: Died on the {0} -->
   <DiedOn>در {0} درگذشت</DiedOn>
   <!-- EN: Nobody -->
-  <Nobody>هيچ كس</Nobody>
+  <Nobody>Nobody</Nobody>
   <!-- EN: Unowned -->
   <Unowned>ناشناس</Unowned>
   <!-- EN: Dead for {0} -->
@@ -91,7 +91,7 @@
   <!-- EN: Inventory -->
   <Inventory>Inventory</Inventory>
   <!-- EN: Information -->
-  <ThingInfo>Information</ThingInfo>
+  <ThingInfo>اطلاعات</ThingInfo>
   <!-- EN: Drop -->
   <DropThing>Drop</DropThing>
   <!-- EN: Temporary faction members will not drop their items. -->
@@ -147,9 +147,9 @@
   <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
   <!-- EN: Freezing -->
-  <Freezing>Freezing</Freezing>
+  <Freezing>انجماد</Freezing>
   <!-- EN: Overheating -->
-  <Overheating>Overheating</Overheating>
+  <Overheating>گرم شدن بیش از حد</Overheating>
   <!-- EN: Ruined by temperature. -->
   <RuinedByTemperature>Ruined by temperature.</RuinedByTemperature>
   <!-- EN: Missing body parts -->
@@ -169,7 +169,7 @@
   <!-- EN: Fuel -->
   <Fuel>سوخت</Fuel>
   <!-- EN: Fuel -->
-  <FuelLevelGizmoLabel>Fuel</FuelLevelGizmoLabel>
+  <FuelLevelGizmoLabel>سوخت</FuelLevelGizmoLabel>
   <!-- EN: Set target fuel level to {0} -->
   <SetTargetFuelLevel>Set target fuel level to {0}</SetTargetFuelLevel>
   <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
@@ -189,7 +189,7 @@
   <!-- EN: permanent -->
   <Permanent>permanent</Permanent>
   <!-- EN: Resting -->
-  <CaravanResting>Resting</CaravanResting>
+  <CaravanResting>استراحت كردن</CaravanResting>
   <!-- EN: using 1 bedroll -->
   <UsingBedroll>using 1 bedroll</UsingBedroll>
   <!-- EN: using {0} bedrolls -->
@@ -215,7 +215,7 @@
   <!-- EN: 1 animal -->
   <CaravanAnimal>1 animal</CaravanAnimal>
   <!-- EN: {0} animals -->
-  <CaravanAnimalsCount>{0} animals</CaravanAnimalsCount>
+  <CaravanAnimalsCount>{0} حیوان</CaravanAnimalsCount>
   <!-- EN: 1 prisoner -->
   <CaravanPrisoner>1 prisoner</CaravanPrisoner>
   <!-- EN: {0} prisoners -->

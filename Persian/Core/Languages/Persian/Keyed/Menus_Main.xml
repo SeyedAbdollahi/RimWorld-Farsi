@@ -3,19 +3,19 @@
 
   <!-- Main menu -->
   <!-- EN: Tutorial -->
-  <Tutorial>آموزش</Tutorial>
+  <Tutorial>آموزش بازی</Tutorial>
   <!-- EN: New colony -->
-  <NewColony>کلونی جدید</NewColony>
+  <NewColony>آغاز مهاجرت تازه</NewColony>
   <!-- EN: Back to game -->
   <BackToGame>بازگشتن به بازی</BackToGame>
   <!-- EN: Review scenario -->
   <ReviewScenario>بررسی سناریو</ReviewScenario>
   <!-- EN: Save -->
-  <Save>بازی را بارگذاری کنید</Save>
+  <Save>بازی را ذخیره کنید</Save>
   <!-- EN: Load game -->
   <LoadGame>بازی را بارگیری کنید</LoadGame>
   <!-- EN: Options -->
-  <Options>گزینه ها</Options>
+  <Options>تنظیمات</Options>
   <!-- EN: Mod -->
   <Mod>مد</Mod>
   <!-- EN: Mods -->
@@ -31,7 +31,7 @@
   <!-- EN: Cleaning translation files -->
   <CleaningTranslationFiles>پاک کردن فایل های ترجمه</CleaningTranslationFiles>
   <!-- EN: Dev quicktest -->
-  <DevQuickTest>تست سریع توسعه دهنده</DevQuickTest>
+  <DevQuickTest>تست سریع ویژه توسعه دهنده</DevQuickTest>
   <!-- EN: Credits -->
   <Credits>سازندگان</Credits>
   <!-- EN: Quit to main menu -->
@@ -65,7 +65,7 @@
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
   <TranslationThanks>All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers: \n\n {0}</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
-  <TranslationHowToContribute>شما هم می توانید کمک کنید. برای کسب اطلاعات بیشتر روی زیر کلیک کنید (مرورگر وب را باز می کند).</TranslationHowToContribute>
+  <TranslationHowToContribute>شما هم می توانید کمک کنید. n\ برای کسب اطلاعات بیشتر در پایین کلیک کنید (مرورگر وب را باز می کند).</TranslationHowToContribute>
   <!-- EN: Learn more -->
   <LearnMore>بیشتر بدانید</LearnMore>
 
@@ -643,7 +643,7 @@
   <!-- EN: Caused by gene -->
   <IncapableOfTooltipGene>Caused by gene</IncapableOfTooltipGene>
   <!-- EN: Traits -->
-  <Traits>Traits</Traits>
+  <Traits>صفات</Traits>
   <!-- EN: Permanent mood effect -->
   <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
   <!-- EN: Skills -->
@@ -669,11 +669,11 @@
   <!-- EN: Health -->
   <Health>سلامتی</Health>
   <!-- EN: Relations -->
-  <Relations>Relations</Relations>
+  <Relations>روابط</Relations>
   <!-- EN: Possessions -->
   <Possessions>Possessions</Possessions>
   <!-- EN: Team skills -->
-  <TeamSkills>Team skills</TeamSkills>
+  <TeamSkills>مهارت های تیمی</TeamSkills>
   <!-- EN: Selected -->
   <StartingPawnsSelected>Selected</StartingPawnsSelected>
   <!-- EN: Left behind -->

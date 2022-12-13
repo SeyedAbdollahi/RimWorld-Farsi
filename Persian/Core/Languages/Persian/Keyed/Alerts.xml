@@ -61,7 +61,7 @@
   <NoMedicineDesc>هیچ دارویی در انبار ندارید.\n\nداروی بیشتری از تاجران بخرید.</NoMedicineDesc>
   
   <!-- EN: Need colonist beds -->
-  <NeedColonistBeds>نیاز به تخت مهاجران</NeedColonistBeds>
+  <NeedColonistBeds>مهاجر به تخت نیاز دارد</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
   <NeedColonistBedsDesc>تعداد مهاجر شما بیشتر از تخت های مهاجر است. کسی جایی برای خوابیدن ندارد.\n\nیا تخت‌های بیشتری درست کنید، یا تخت زندانی را به تخت مهاجر تغییر دهید.\n\nاگر هیچ منبعی ندارید، مکان‌های خواب رایگان هستند و می‌توانند فوراً قرار بگیرند.</NeedColonistBedsDesc>
   

@@ -1,5 +1,5 @@
-﻿Primus
-Secundus
+﻿Secundus
+Primus
 Tertius
 Quadrus
 Pentimus
@@ -9,6 +9,7 @@ Octus
 Nonus
 
 Minutus
+
 Borealis
 Australis
 Media
@@ -16,9 +17,17 @@ Meridiana
 Posterious
 Prior
 
-Major
-Minor
-Primary
-Secondary
-Tertiary
-Ultimate
+Planet
+World
+
+al Rai
+al Asad
+al Samakah
+al Saif
+
+
+
+
+
+
+
