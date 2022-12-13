@@ -41,7 +41,7 @@
   <!-- EN: Utter beginner -->
   <Skill1>Utter beginner</Skill1>
   <!-- EN: Beginner -->
-  <Skill2>Beginner</Skill2>
+  <Skill2>مبتدی</Skill2>
   <!-- EN: Basic familiarity -->
   <Skill3>Basic familiarity</Skill3>
   <!-- EN: Some familiarity -->
@@ -65,7 +65,7 @@
   <!-- EN: Strong expert -->
   <Skill13>Strong expert</Skill13>
   <!-- EN: Master -->
-  <Skill14>Master</Skill14>
+  <Skill14>استاد</Skill14>
   <!-- EN: Strong master -->
   <Skill15>Strong master</Skill15>
   <!-- EN: Region-known master -->
@@ -77,6 +77,6 @@
   <!-- EN: Planet-leading master -->
   <Skill19>Planet-leading master</Skill19>
   <!-- EN: Legendary master -->
-  <Skill20>Legendary master</Skill20>
+  <Skill20>استاد افسانه ای</Skill20>
   
 </LanguageData>

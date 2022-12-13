@@ -63,7 +63,7 @@
   <DesignatedFor>designated for {0}</DesignatedFor>
 
   <!-- EN: forbidden -->
-  <ForbiddenLower>forbidden</ForbiddenLower>
+  <ForbiddenLower>ممنوع</ForbiddenLower>
   <!-- EN: outside allowed area -->
   <ForbiddenOutsideAllowedAreaLower>outside allowed area</ForbiddenOutsideAllowedAreaLower>
   <!-- EN: not in home area -->

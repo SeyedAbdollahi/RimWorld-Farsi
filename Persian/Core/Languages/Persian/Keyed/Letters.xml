@@ -5,7 +5,7 @@
   <!-- EN: Jump to location -->
   <JumpToLocation>Jump to location</JumpToLocation>
   <!-- EN: Postpone -->
-  <PostponeLetter>Postpone</PostponeLetter>
+  <PostponeLetter>عقب انداختن</PostponeLetter>
   <!-- EN: Reject -->
   <RejectLetter>Reject</RejectLetter>
   <!-- EN: Read more -->
@@ -39,7 +39,7 @@
   <LetterRelationsChange_AllyGoodwillDescription>Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral.</LetterRelationsChange_AllyGoodwillDescription>
 
   <!-- EN: goodwill -->
-  <goodwill>goodwill</goodwill>
+  <goodwill>حسن نیت</goodwill>
   <!-- EN: Neutral -->
   <Neutral>Neutral</Neutral>
   <!-- EN: neutral -->

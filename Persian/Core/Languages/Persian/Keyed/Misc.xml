@@ -177,13 +177,13 @@
   
   <!-- Rotation -->
   <!-- EN: North -->
-  <North>North</North>
+  <North>شمال</North>
   <!-- EN: South -->
-  <South>South</South>
+  <South>جنوب</South>
   <!-- EN: West -->
-  <West>West</West>
+  <West>غرب</West>
   <!-- EN: East -->
-  <East>East</East>
+  <East>شرق</East>
 
   <!-- EN: applying techprint ({0}) -->
   <ApplyingTechprint>applying techprint ({0})</ApplyingTechprint>

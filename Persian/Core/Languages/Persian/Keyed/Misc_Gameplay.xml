@@ -17,7 +17,7 @@
   <!-- EN: For colonist use -->
   <ForColonistUse>For colonist use</ForColonistUse>
   <!-- EN: Medical -->
-  <MedicalBed>Medical</MedicalBed>
+  <MedicalBed>پزشکی</MedicalBed>
   <!-- EN: Owner -->
   <Owner>Owner</Owner>
   <!-- EN: Owners -->
@@ -41,7 +41,7 @@
   <!-- EN: fert. -->
   <FertShort>fert.</FertShort>
   <!-- EN: dying -->
-  <DyingLower>dying</DyingLower>
+  <DyingLower>در حال مرگ</DyingLower>
   <!-- EN: Filth on feet: -->
   <FilthOnFeet>Filth on feet:</FilthOnFeet>
   <!-- EN: not enough stored -->
@@ -99,7 +99,7 @@
   <!-- EN: This person refuses to drop this. -->
   <DropThingLocked>This person refuses to drop this.</DropThingLocked>
   <!-- EN: Rename -->
-  <Rename>Rename</Rename>
+  <Rename>تغییر نام دهید</Rename>
   <!-- EN: Rename animal -->
   <RenameAnimal>Rename animal</RenameAnimal>
   <!-- EN: Rename colonist -->
@@ -167,7 +167,7 @@
   <!-- EN: (bond) -->
   <BondBrackets>(bond)</BondBrackets>
   <!-- EN: Fuel -->
-  <Fuel>Fuel</Fuel>
+  <Fuel>سوخت</Fuel>
   <!-- EN: Fuel -->
   <FuelLevelGizmoLabel>Fuel</FuelLevelGizmoLabel>
   <!-- EN: Set target fuel level to {0} -->
@@ -227,7 +227,7 @@
   <!-- EN: Traveling. -->
   <CaravanTraveling>Traveling.</CaravanTraveling>
   <!-- EN: Waiting. -->
-  <CaravanWaiting>Waiting.</CaravanWaiting>
+  <CaravanWaiting>در انتظار.</CaravanWaiting>
   <!-- EN: Being carried due to illness -->
   <BeingCarriedDueToIllness>Being carried due to illness</BeingCarriedDueToIllness>
   <!-- EN: Using bedrolls due to illness -->
@@ -265,7 +265,7 @@
   <!-- EN: raining -->
   <DeterioratingRaining>raining</DeterioratingRaining> 
   <!-- EN: protected -->
-  <Protected>protected</Protected>
+  <Protected>حفاظت شده</Protected>
   <!-- EN: Deteriorating -->
   <DeterioratingBecauseOf>Deteriorating</DeterioratingBecauseOf>
   <!-- EN: Will deteriorate in {0}. -->
@@ -425,7 +425,7 @@
   <!-- EN: mortars -->
   <Mortars>mortars</Mortars>
   <!-- EN: enemy -->
-  <Enemy>enemy</Enemy>
+  <Enemy>دشمن</Enemy>
   <!-- EN: location -->
   <Location>location</Location>
   <!-- EN: animals -->
@@ -861,7 +861,7 @@
   <!-- EN: Shooter -->
   <ShootReportShooterAbility>Shooter</ShootReportShooterAbility>
   <!-- EN: Weapon -->
-  <ShootReportWeapon>Weapon</ShootReportWeapon>
+  <ShootReportWeapon>سلاح</ShootReportWeapon>
   <!-- EN: Darkness -->
   <Darkness>Darkness</Darkness>
   <!-- EN: Target lying down -->
@@ -1471,7 +1471,7 @@
   <!-- EN: Worker -->
   <OutfitWorker>Worker</OutfitWorker>
   <!-- EN: Soldier -->
-  <OutfitSoldier>Soldier</OutfitSoldier>
+  <OutfitSoldier>سرباز</OutfitSoldier>
   <!-- EN: Nudist -->
   <OutfitNudist>Nudist</OutfitNudist>
 

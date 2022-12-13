@@ -3,49 +3,49 @@
 
   <!-- ITab titles -->
   <!-- EN: Bills -->
-  <TabBills>Bills</TabBills>
+  <TabBills>صورتحساب</TabBills>
   <!-- EN: Growing -->
-  <TabGrowing>Growing</TabGrowing>
+  <TabGrowing>در حال رشد</TabGrowing>
   <!-- EN: Bio -->
-  <TabCharacter>Bio</TabCharacter>
+  <TabCharacter>بیوگرافی</TabCharacter>
   <!-- EN: Training -->
-  <TabTraining>Training</TabTraining>
+  <TabTraining>تعلیم</TabTraining>
   <!-- EN: Prisoner -->
-  <TabPrisoner>Prisoner</TabPrisoner>
+  <TabPrisoner>زندانی</TabPrisoner>
   <!-- EN: Guest -->
-  <TabGuest>Guest</TabGuest>
+  <TabGuest>مهمان</TabGuest>
   <!-- EN: Gear -->
-  <TabGear>Gear</TabGear>
+  <TabGear>پوشش</TabGear>
   <!-- EN: Needs -->
-  <TabNeeds>Needs</TabNeeds>
+  <TabNeeds>نیازها</TabNeeds>
   <!-- EN: Storage -->
-  <TabStorage>Storage</TabStorage>
+  <TabStorage>انباری</TabStorage>
   <!-- EN: Shells -->
-  <TabShells>Shells</TabShells>
+  <TabShells>پوسته ها</TabShells>
   <!-- EN: Health -->
-  <TabHealth>Health</TabHealth>
+  <TabHealth>سلامتی</TabHealth>
   <!-- EN: Race -->
-  <TabRace>Race</TabRace>
+  <TabRace>نژاد</TabRace>
   <!-- EN: Basics -->
   <TabBasics>Basics</TabBasics>
   <!-- EN: Stats -->
-  <TabStats>Stats</TabStats>
+  <TabStats>آمار</TabStats>
   <!-- EN: Records -->
-  <TabRecords>Records</TabRecords>
+  <TabRecords>سوابق</TabRecords>
   <!-- EN: Art -->
-  <TabArt>Art</TabArt>
+  <TabArt>هنر</TabArt>
   <!-- EN: Social -->
-  <TabSocial>Social</TabSocial>
+  <TabSocial>اجتماعی</TabSocial>
   <!-- EN: Log -->
   <TabLog>Log</TabLog>
   <!-- EN: Animals -->
-  <TabPenAnimals>Animals</TabPenAnimals>
+  <TabPenAnimals>حیوانات</TabPenAnimals>
   <!-- EN: Food -->
-  <TabPenFood>Food</TabPenFood>
+  <TabPenFood>غذا</TabPenFood>
   <!-- EN: Auto-cut -->
   <TabPenAutoCut>Auto-cut</TabPenAutoCut>
   <!-- EN: Caravan -->
-  <TabFormingCaravan>Caravan</TabFormingCaravan>
+  <TabFormingCaravan>کاروان</TabFormingCaravan>
   <!-- EN: Contents -->
   <TabTransporterContents>Contents</TabTransporterContents>
   <!-- EN: Contents -->
@@ -208,7 +208,7 @@
   <!-- EN: Food consumption -->
   <FoodConsumption>Food consumption</FoodConsumption>
   <!-- EN: Tiredness -->
-  <Tiredness>Tiredness</Tiredness>
+  <Tiredness>خستگی</Tiredness>
   <!-- EN: Pain -->
   <PainFactor>Pain</PainFactor>
   <!-- EN: Prevents infection -->
@@ -269,7 +269,7 @@
   <!-- EN: Missing -->
   <Missing>Missing</Missing>
   <!-- EN: Slave -->
-  <Slave>Slave</Slave>
+  <Slave>برده</Slave>
   <!-- EN: Faction leader -->
   <FactionLeader>Faction leader</FactionLeader>
   <!-- EN: Opinion of {0} -->
@@ -293,7 +293,7 @@
   <!-- EN: Sharp -->
   <ArmorSharp>Sharp</ArmorSharp>
   <!-- EN: Heat -->
-  <ArmorHeat>Heat</ArmorHeat>
+  <ArmorHeat>حرارت</ArmorHeat>
   
   <!-- Log tab -->
   <!-- EN: Show all -->
@@ -327,7 +327,7 @@
   <!-- EN: Waiting -->
   <FormingCaravanStatus_Waiting>Waiting</FormingCaravanStatus_Waiting>
   <!-- EN: Members -->
-  <CaravanMembers>Members</CaravanMembers>
+  <CaravanMembers>اعضا</CaravanMembers>
   <!-- EN: Animals -->
   <CaravanAnimals>Animals</CaravanAnimals>
   <!-- EN: To load -->
@@ -371,11 +371,11 @@
   <PenFoodTab_StockpileEmptyDaysDescription>Nutrition consumption exceeds nutrition growth rate in this pen. The animals will eventually eat all the stockpiled food and starve.</PenFoodTab_StockpileEmptyDaysDescription>
 
   <!-- EN: Animal type -->
-  <PenFoodTab_AnimalType>Animal type</PenFoodTab_AnimalType>
+  <PenFoodTab_AnimalType>نوع حیوانی</PenFoodTab_AnimalType>
   <!-- EN: Count -->
   <PenFoodTab_Count>Count</PenFoodTab_Count>
   <!-- EN: Today -->
-  <PenFoodTab_CurrentDay>Today</PenFoodTab_CurrentDay>
+  <PenFoodTab_CurrentDay>امروز</PenFoodTab_CurrentDay>
   <!-- EN: nutrition -->
   <PenFoodTab_Nutrition_Unit>nutrition</PenFoodTab_Nutrition_Unit>
   <!-- EN: per day -->

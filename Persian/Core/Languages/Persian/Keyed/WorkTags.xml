@@ -2,46 +2,46 @@
 <LanguageData>
 
   <!-- EN: none -->
-  <WorkTagNone>none</WorkTagNone>
+  <WorkTagNone>هیچ یک</WorkTagNone>
   <!-- EN: intellectual -->
-  <WorkTagIntellectual>intellectual</WorkTagIntellectual>
+  <WorkTagIntellectual>پر فکر</WorkTagIntellectual>
   <!-- EN: dumb labor -->
-  <WorkTagManualDumb>dumb labor</WorkTagManualDumb>
+  <WorkTagManualDumb>نیروی کار بی مهارت</WorkTagManualDumb>
   <!-- EN: skilled labor -->
-  <WorkTagManualSkilled>skilled labor</WorkTagManualSkilled>
+  <WorkTagManualSkilled>نیروی کار ماهر</WorkTagManualSkilled>
   <!-- EN: violent -->
-  <WorkTagViolent>violent</WorkTagViolent>
+  <WorkTagViolent>خشن</WorkTagViolent>
   <!-- EN: shooting -->
   <WorkTagShooting>تیراندازی کردن</WorkTagShooting>
   <!-- EN: caring -->
-  <WorkTagCaring>caring</WorkTagCaring>
+  <WorkTagCaring>مراقبت</WorkTagCaring>
   <!-- EN: social -->
-  <WorkTagSocial>social</WorkTagSocial>
+  <WorkTagSocial>اجتماعی</WorkTagSocial>
   <!-- EN: animals -->
-  <WorkTagAnimals>animals</WorkTagAnimals>
+  <WorkTagAnimals>حیوانات</WorkTagAnimals>
   <!-- EN: artistic -->
-  <WorkTagArtistic>artistic</WorkTagArtistic>
+  <WorkTagArtistic>هنری</WorkTagArtistic>
   <!-- EN: crafting -->
-  <WorkTagCrafting>crafting</WorkTagCrafting>
+  <WorkTagCrafting>صنایع دستی</WorkTagCrafting>
   <!-- EN: cooking -->
-  <WorkTagCooking>cooking</WorkTagCooking>
+  <WorkTagCooking>پخت و پز</WorkTagCooking>
   <!-- EN: firefighting -->
-  <WorkTagFirefighting>firefighting</WorkTagFirefighting>
+  <WorkTagFirefighting>آتش نشانی</WorkTagFirefighting>
   <!-- EN: cleaning -->
-  <WorkTagCleaning>cleaning</WorkTagCleaning>
+  <WorkTagCleaning>تمیز کردن</WorkTagCleaning>
   <!-- EN: hauling -->
-  <WorkTagHauling>hauling</WorkTagHauling>
+  <WorkTagHauling>حمل و نقل</WorkTagHauling>
   <!-- EN: plant work -->
-  <WorkTagPlantWork>plant work</WorkTagPlantWork>
+  <WorkTagPlantWork>کار گیاهی</WorkTagPlantWork>
   <!-- EN: mining -->
-  <WorkTagMining>mining</WorkTagMining>
+  <WorkTagMining>معدن</WorkTagMining>
   <!-- EN: hunting -->
-  <WorkTagHunting>hunting</WorkTagHunting>
+  <WorkTagHunting>شکار</WorkTagHunting>
   <!-- EN: constructing -->
-  <WorkTagConstructing>constructing</WorkTagConstructing>
+  <WorkTagConstructing>ساختن</WorkTagConstructing>
   <!-- EN: commoner work -->
-  <WorkTagCommoner>commoner work</WorkTagCommoner>
+  <WorkTagCommoner>کار معمولی</WorkTagCommoner>
   <!-- EN: all work -->
-  <WorkTagAllWork>all work</WorkTagAllWork>
+  <WorkTagAllWork>همه کار</WorkTagAllWork>
 
 </LanguageData>

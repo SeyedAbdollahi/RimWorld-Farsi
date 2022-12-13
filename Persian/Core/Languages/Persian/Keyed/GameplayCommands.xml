@@ -3,7 +3,7 @@
 
   <!-- Forbid -->
   <!-- EN: Forbid -->
-  <CommandForbid>Forbid</CommandForbid>
+  <CommandForbid>منع</CommandForbid>
   <!-- EN: Allow -->
   <CommandAllow>Allow</CommandAllow>
   <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
@@ -115,7 +115,7 @@
   <CommandRenameZoneDesc>Rename this zone.</CommandRenameZoneDesc>
 
   <!-- EN: Hide -->
-  <CommandHideZoneLabel>Hide</CommandHideZoneLabel>
+  <CommandHideZoneLabel>نهفتن</CommandHideZoneLabel>
   <!-- EN: Unhide -->
   <CommandUnhideZoneLabel>Unhide</CommandUnhideZoneLabel>
   <!-- EN: Hide/unhide this zone. -->

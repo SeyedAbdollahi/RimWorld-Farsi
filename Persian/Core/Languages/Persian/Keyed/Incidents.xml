@@ -61,7 +61,7 @@
   <!-- EN: All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion. -->
   <ShortCircuitDischargedEnergy>All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion.</ShortCircuitDischargedEnergy>
   <!-- EN: This large amount of power has created an explosion of considerable size. -->
-  <ShortCircuitWasLarge>This large amount of power has created an explosion of considerable size.</ShortCircuitWasLarge>
+  <ShortCircuitWasLarge>این مقدار زیاد قدرت، انفجاری با اندازه قابل توجه ایجاد کرده است.</ShortCircuitWasLarge>
   <!-- EN: That really is a huge explosion. Wow. -->
   <ShortCircuitWasHuge>That really is a huge explosion. Wow.</ShortCircuitWasHuge>
 
