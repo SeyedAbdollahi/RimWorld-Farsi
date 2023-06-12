@@ -40,19 +40,19 @@
   <!-- EN: left index finger -->
   <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>TODO</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
   <!-- EN: left thumb -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>TODO</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>انگشت شست چپ</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
   <!-- EN: right shoulder -->
-  <Human.corePart.parts.right_shoulder.customLabel>TODO</Human.corePart.parts.right_shoulder.customLabel>
+  <Human.corePart.parts.right_shoulder.customLabel>شانه راست</Human.corePart.parts.right_shoulder.customLabel>
   <!-- EN: right clavicle -->
-  <Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>TODO</Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>ترقوه راست</Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
   <!-- EN: right arm -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>TODO</Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>بازوی راست</Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>
   <!-- EN: right humerus -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>TODO</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>استخوان بازو راست</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
   <!-- EN: right radius -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>TODO</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>استخوان ساعد راست</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
   <!-- EN: right hand -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>TODO</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>دست راست</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
   <!-- EN: right pinky -->
   <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>TODO</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
   <!-- EN: right ring finger -->
@@ -62,42 +62,42 @@
   <!-- EN: right index finger -->
   <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>TODO</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
   <!-- EN: right thumb -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>TODO</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>انگشت شست راست</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
   <!-- EN: left leg -->
-  <Human.corePart.parts.left_leg.customLabel>TODO</Human.corePart.parts.left_leg.customLabel>
+  <Human.corePart.parts.left_leg.customLabel>پای چپ</Human.corePart.parts.left_leg.customLabel>
   <!-- EN: left femur -->
-  <Human.corePart.parts.left_leg.parts.left_femur.customLabel>TODO</Human.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_femur.customLabel>استخوان ران چپ</Human.corePart.parts.left_leg.parts.left_femur.customLabel>
   <!-- EN: left tibia -->
   <Human.corePart.parts.left_leg.parts.left_tibia.customLabel>TODO</Human.corePart.parts.left_leg.parts.left_tibia.customLabel>
   <!-- EN: left foot -->
   <Human.corePart.parts.left_leg.parts.left_foot.customLabel>TODO</Human.corePart.parts.left_leg.parts.left_foot.customLabel>
   <!-- EN: left little toe -->
-  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>TODO</Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>انگشت کوچک پای چپ</Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
   <!-- EN: left fourth toe -->
-  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>TODO</Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>انگشت چهارم پای چپ</Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
   <!-- EN: left middle toe -->
-  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>TODO</Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>انگشت میانی پای چپ</Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
   <!-- EN: left second toe -->
-  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>TODO</Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>انگشت دوم پای چپ</Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
   <!-- EN: left big toe -->
-  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>TODO</Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>انگشت شست پای چپ</Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
   <!-- EN: right leg -->
-  <Human.corePart.parts.right_leg.customLabel>TODO</Human.corePart.parts.right_leg.customLabel>
+  <Human.corePart.parts.right_leg.customLabel>پای راست</Human.corePart.parts.right_leg.customLabel>
   <!-- EN: right femur -->
-  <Human.corePart.parts.right_leg.parts.right_femur.customLabel>TODO</Human.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_femur.customLabel>استخوان ران راست</Human.corePart.parts.right_leg.parts.right_femur.customLabel>
   <!-- EN: right tibia -->
   <Human.corePart.parts.right_leg.parts.right_tibia.customLabel>TODO</Human.corePart.parts.right_leg.parts.right_tibia.customLabel>
   <!-- EN: right foot -->
   <Human.corePart.parts.right_leg.parts.right_foot.customLabel>TODO</Human.corePart.parts.right_leg.parts.right_foot.customLabel>
   <!-- EN: right little toe -->
-  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>TODO</Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>انگشت کوچک پای راست</Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
   <!-- EN: right fourth toe -->
-  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>TODO</Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>انگشت چهارم پای راست</Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
   <!-- EN: right middle toe -->
-  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>TODO</Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>انگشت میانی پای راست</Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
   <!-- EN: right second toe -->
-  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>TODO</Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>انگشت دوم پای راست</Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
   <!-- EN: right big toe -->
-  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>TODO</Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>انگشت شست پای راست</Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
   
 </LanguageData>
